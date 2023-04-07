@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import React from "react";
 import "./App.css";
 
 export default function Weather() {
@@ -81,7 +81,7 @@ export default function Weather() {
           </div>
           <small className="developer-information">
             <a
-              href="https://github.com/naskol/vanilla-weather-app"
+              href="https://github.com/naskol/weather-app-react"
               target="_blank"
               rel="noreferrer"
             >
